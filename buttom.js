@@ -37,35 +37,17 @@ window.onload = function() {
     // document.querySelector("#zhangweihong").onclick = function() {
     //     document.querySelector("#zhangweihong_position").scrollIntoView(true);
     // }
-    document.querySelector("#zhangweisheng").onclick = function() {
-        document.querySelector("#zhangweisheng_position").scrollIntoView(true);
+    document.querySelector("#linhongwei").onclick = function() {
+        document.querySelector("#linhongwei_position").scrollIntoView(true);
     }
-    document.querySelector("#niubin").onclick = function() {
-        document.querySelector("#niubin_position").scrollIntoView(true);
+    document.querySelector("#fangqing").onclick = function() {
+        document.querySelector("#fangqing_position").scrollIntoView(true);
     }
-    document.querySelector("#gaojie").onclick = function() {
-        document.querySelector("#gaojie_position").scrollIntoView(true);
+    document.querySelector("#hujiangbei").onclick = function() {
+        document.querySelector("#hujiangbei_position").scrollIntoView(true);
     }
-    document.querySelector("#yibing").onclick = function() {
-        document.querySelector("#yibing_position").scrollIntoView(true);
-    }
-    document.querySelector("#liming").onclick = function() {
-        document.querySelector("#liming_position").scrollIntoView(true);
-    }
-    document.querySelector("#lvlin").onclick = function() {
-        document.querySelector("#lvlin_position").scrollIntoView(true);
-    }
-    document.querySelector("#liubingshan").onclick = function() {
-        document.querySelector("#liubingshan_position").scrollIntoView(true);
-    }
-    document.querySelector("#liuke").onclick = function() {
-        document.querySelector("#liuke_position").scrollIntoView(true);
-    }
-    document.querySelector("#lidawei").onclick = function() {
-        document.querySelector("#lidawei_position").scrollIntoView(true);
-    }
-    document.querySelector("#zhengxiaoyang").onclick = function() {
-        document.querySelector("#zhengxiaoyang_position").scrollIntoView(true);
+    document.querySelector("#gaodepeng").onclick = function() {
+        document.querySelector("#gaodepeng_position").scrollIntoView(true);
     }
 
 }
